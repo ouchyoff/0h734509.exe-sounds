@@ -1,4 +1,4 @@
-the sounds for 0h734509.exe
+//the sounds for 0h734509.exe
 
 (t*3&t>>1000)*t&128 //8000hz
 
